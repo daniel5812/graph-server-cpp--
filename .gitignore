@@ -1,0 +1,20 @@
+# Compiled binaries
+server/server
+client/client
+*.out
+*.o
+*.a
+
+# Build artifacts
+*.exe
+*.dll
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
